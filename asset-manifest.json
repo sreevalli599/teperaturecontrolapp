@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/teperaturecontrolapp/static/css/main.e4052aeb.css",
+    "main.js": "/teperaturecontrolapp/static/js/main.b9756b0d.js",
+    "static/js/787.93983bc9.chunk.js": "/teperaturecontrolapp/static/js/787.93983bc9.chunk.js",
+    "index.html": "/teperaturecontrolapp/index.html",
+    "main.e4052aeb.css.map": "/teperaturecontrolapp/static/css/main.e4052aeb.css.map",
+    "main.b9756b0d.js.map": "/teperaturecontrolapp/static/js/main.b9756b0d.js.map",
+    "787.93983bc9.chunk.js.map": "/teperaturecontrolapp/static/js/787.93983bc9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4052aeb.css",
+    "static/js/main.b9756b0d.js"
+  ]
+}
